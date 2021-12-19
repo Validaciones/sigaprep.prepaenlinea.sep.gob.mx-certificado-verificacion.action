@@ -1,0 +1,1 @@
+# sigaprep.prepaenlinea.sep.gob.mx-certificado-verificacion.action
